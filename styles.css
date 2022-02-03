@@ -24,3 +24,38 @@ body{
     text-decoration: none;
     font-size: 17px;
   }
+.content
+{
+    background: gainsboro;
+    width: 300px;
+    margin: 7px;
+    margin-top: 20px;
+    margin-left: 10px;
+    padding: 40px;
+    border: 4px, gray;
+    display: block;
+    float:left
+
+}
+.photo
+{
+    display: block;
+    float: left;
+    margin: 10px;
+    margin-top: 40px;
+    margin-left: 430px;
+    position:absolute
+}
+.dog
+{
+    background: gainsboro;
+    width: 300px;
+    height: auto;
+    margin: 7px;
+    margin-left: 435px;
+    margin-top: 575px;
+    padding: 40px;
+    border: 4px, gray;
+    position: absolute;
+
+}
